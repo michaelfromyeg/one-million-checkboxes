@@ -1,4 +1,4 @@
-# One Million Checkboxes
+# One Million Checkboxes ✅
 
 Inspired by [onemillioncheckboxes.com](https://onemillioncheckboxes.com).
 
