@@ -27,8 +27,8 @@ const PAGE_ID = process.env.NOTION_PAGE_ID;
 //   console.log({ results: listUsersResponse.results })
 // })()
 
-// a bit "hard-coded" to work with 1,000 x 1,000(= 1,000,000) currently
-const N_PROPERTIES = 1_000;
+// a bit "hard-coded" to work with 100 x 10,000(= 1,000,000) currently
+const N_PROPERTIES = 100;
 const N_ROWS = 1_000_000 / N_PROPERTIES;
 
 function pad(num, length) {
